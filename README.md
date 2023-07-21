@@ -46,7 +46,14 @@ xed .
 The app utilizes local data, which can be easily replaced with data from the backend or larger local datasets as your app's requirements grow.
 
 ## Screenshots
-<img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/DesignCodeiOS15/Design%2Bcode%20iOS15.gif" alt="DesignCodeiOS15 Gif">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/DesignCodeiOS15/1.png" alt="Screen" width="200">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/DesignCodeiOS15/2.png" alt="Screen" width="200">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/DesignCodeiOS15/3.png" alt="Screen" width="200">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/DesignCodeiOS15/4.png" alt="Screen" width="200">
+  <img src="https://filedn.com/lgYM5v25LH64Wknu6KIrjpj/Client%20Project/Innovative%20Candor/GitHub/DesignCodeiOS15/5.png" alt="Screen" width="200">
+
+</div>
 
 ## Feedback and Support
 
