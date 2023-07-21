@@ -30,7 +30,7 @@ git clone https://github.com/HardiB-Salih/DesignCodeiOS15.git
 2. Navigate to the project directory:
 
 ```bash
-cd designcode-ios15
+cd DesignCodeiOS15
 ```
 
 3. Open the Xcode project:
